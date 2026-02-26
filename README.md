@@ -198,5 +198,4 @@ This project was developed as part of a Computer Networks course to simulate ent
 - [Packet Tracer File](Enterprise-VoIP-Network.pkt)
 - [Project Report](project-report.pdf)
 
-## 📂 Repository Structure
 

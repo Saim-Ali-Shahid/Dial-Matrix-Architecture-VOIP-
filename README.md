@@ -169,6 +169,14 @@ This project demonstrates practical implementation of:
 
 ---
 
+## 📂 Repository Structure
+VoIP-Enterprise-Network/
+│
+├── Enterprise-VoIP-Network.pkt
+├── README.md
+├── Project-Report.pdf
+├── topology.png
+
 ## 👨‍💻 Author
 
 **Saim Ali Shahid**  

@@ -170,12 +170,12 @@ This project demonstrates practical implementation of:
 ---
 
 ## 📂 Repository Structure
-VoIP-Enterprise-Network/
-│
-├── Enterprise-VoIP-Network.pkt
-├── README.md
-├── Project-Report.pdf
-├── topology.png
+VoIP-Enterprise-Network/ <br>
+│ <br>
+├── Enterprise-VoIP-Network.pkt <br>
+├── README.md <br>
+├── Project-Report.pdf <br>
+├── topology.png 
 
 ## 👨‍💻 Author
 

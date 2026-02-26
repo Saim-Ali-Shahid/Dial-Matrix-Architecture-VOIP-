@@ -30,8 +30,8 @@ Each department includes:
 
 - 1 Cisco 2811 Router
 - 1 Cisco 2960 Switch
-- 20 IP Phones
-- 20 Desktop PCs
+- 10 IP Phones
+- 10 Desktop PCs
 - 1 Network Printer
 
 Centralized server room provides:
